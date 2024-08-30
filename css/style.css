@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 @font-face {
     font-family: 'FonteLogo';
-    src: url("../_fonts/bubblegum-sans-regular.otf");
+    src: url("../fonts/bubblegum-sans-regular.otf");
 }
 
 
@@ -41,7 +41,7 @@ header#cabecalho{
     border-bottom: 1px solid #606060;
     height: 150px;
     position: relative;
-    background-image: url(../_imagens/glass-logo-peq.jpg);
+    background-image: url(../imagens/glass-logo-peq.jpg);
     background-repeat: no-repeat;
     background-position: 0px 80px;
     margin-bottom: 15px;
